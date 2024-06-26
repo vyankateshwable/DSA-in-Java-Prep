@@ -1,0 +1,161 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ButterflyPattern",
+            "request": "launch",
+            "mainClass": "ButterflyPattern",
+            "projectName": "Patterns_524a1e57"
+        },
+        {
+            "type": "java",
+            "name": "DiamondShapePattern",
+            "request": "launch",
+            "mainClass": "DiamondShapePattern",
+            "projectName": "Patterns_524a1e57"
+        },
+        {
+            "type": "java",
+            "name": "DownwardTriangleStartPattern",
+            "request": "launch",
+            "mainClass": "DownwardTriangleStartPattern",
+            "projectName": "Patterns_524a1e57"
+        },
+        {
+            "type": "java",
+            "name": "HalfDiamondPattern",
+            "request": "launch",
+            "mainClass": "HalfDiamondPattern",
+            "projectName": "Patterns_524a1e57"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "Patterns_524a1e57"
+        },
+        {
+            "type": "java",
+            "name": "HollowRectanglePattern",
+            "request": "launch",
+            "mainClass": "HollowRectanglePattern",
+            "projectName": "Patterns_524a1e57"
+        },
+        {
+            "type": "java",
+            "name": "HollowTriangleStarPattern",
+            "request": "launch",
+            "mainClass": "HollowTriangleStarPattern",
+            "projectName": "Patterns_524a1e57"
+        },
+        {
+            "type": "java",
+            "name": "InvertedHollowTrianglePattern",
+            "request": "launch",
+            "mainClass": "InvertedHollowTrianglePattern",
+            "projectName": "Patterns_524a1e57"
+        },
+        {
+            "type": "java",
+            "name": "LeftPascalTriangle",
+            "request": "launch",
+            "mainClass": "LeftPascalTriangle",
+            "projectName": "Patterns_524a1e57"
+        },
+        {
+            "type": "java",
+            "name": "LeftTrainglePattern",
+            "request": "launch",
+            "mainClass": "LeftTrainglePattern",
+            "projectName": "Patterns_524a1e57"
+        },
+        {
+            "type": "java",
+            "name": "MirroredRightTrainglePttern",
+            "request": "launch",
+            "mainClass": "MirroredRightTrainglePttern",
+            "projectName": "Patterns_524a1e57"
+        },
+        {
+            "type": "java",
+            "name": "NumberPyramid",
+            "request": "launch",
+            "mainClass": "NumberPyramid",
+            "projectName": "Patterns_524a1e57"
+        },
+        {
+            "type": "java",
+            "name": "PalindromeNumberPyramidPattern",
+            "request": "launch",
+            "mainClass": "PalindromeNumberPyramidPattern",
+            "projectName": "Patterns_524a1e57"
+        },
+        {
+            "type": "java",
+            "name": "PyramidStarPattern",
+            "request": "launch",
+            "mainClass": "PyramidStarPattern",
+            "projectName": "Patterns_524a1e57"
+        },
+        {
+            "type": "java",
+            "name": "RectanglePattern",
+            "request": "launch",
+            "mainClass": "RectanglePattern",
+            "projectName": "Patterns_524a1e57"
+        },
+        {
+            "type": "java",
+            "name": "RhombusPattern",
+            "request": "launch",
+            "mainClass": "RhombusPattern",
+            "projectName": "Patterns_524a1e57"
+        },
+        {
+            "type": "java",
+            "name": "RightAngledTrianglPattern",
+            "request": "launch",
+            "mainClass": "RightAngledTrianglPattern",
+            "projectName": "Patterns_524a1e57"
+        },
+        {
+            "type": "java",
+            "name": "RightPascalTriangle",
+            "request": "launch",
+            "mainClass": "RightPascalTriangle",
+            "projectName": "Patterns_524a1e57"
+        },
+        {
+            "type": "java",
+            "name": "SandglassStarPattern",
+            "request": "launch",
+            "mainClass": "SandglassStarPattern",
+            "projectName": "Patterns_524a1e57"
+        },
+        {
+            "type": "java",
+            "name": "StarPyramidPattern",
+            "request": "launch",
+            "mainClass": "StarPyramidPattern",
+            "projectName": "Patterns_524a1e57"
+        },
+        {
+            "type": "java",
+            "name": "StarPyramidPattern_2",
+            "request": "launch",
+            "mainClass": "StarPyramidPattern_2",
+            "projectName": "Patterns_524a1e57"
+        }
+    ]
+}
